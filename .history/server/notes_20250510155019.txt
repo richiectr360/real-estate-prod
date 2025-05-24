@@ -1,0 +1,14 @@
+- npm init -y 
+
+- npm i express body-parser cors dotenv helmet morgan jsonwebtoken multer uuid axios @terraformer/wkt @aws-sdk/client-s3 @aws-sdk/lib-storage 
+- npm i -D rimraf concurrently nodemon shx ts-node typescript @types/cors @types/morgan @types/node @types/jsonwebtoken @types/multer @types/terraformer__wkt @types/uuid 
+- npx tsc --init
+
+- GO TO tsconfig.json - line 28 
+ CHANGE "module": "commonjs" TO "module": "nodenext" 
+- uncomment line 30 and change to "moduleResolution": "nodenext"
+- Line 44, uncomment it 
+- line 61, uncomment 
+
+
+

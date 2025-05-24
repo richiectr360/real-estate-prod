@@ -1,0 +1,12 @@
+- npm i @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons @fortawesome/react-fontawesome --legacy-peer-deps
+
+##############################
+
+- Providers - change the file then layout.tst and export it there.
+- Anything in APP folder, just do /folder-name
+- layout.tsx in src is global to all folders
+
+
+
+
+1) LANDING (Finish all files and consolidate to page.jsx) 
